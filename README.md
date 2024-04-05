@@ -1,5 +1,5 @@
-Hi, I’m @nabarunk7
-I’m interested in problem solving, data analytics, competitive coding and web development.
+--Hi, I’m @nabarunk7
+--I’m interested in problem solving, data analytics, competitive coding and web development.
 
 
 <!---
