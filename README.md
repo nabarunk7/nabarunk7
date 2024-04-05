@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nabarunk7
-- 👀 I’m interested in problem solving, coding, sports and web development.
+- 👀 I’m interested in problem solving, data analytics, competitive coding and web development.
 - 🌱 I’m currently learning full-stack web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
